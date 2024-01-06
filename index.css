@@ -24,15 +24,27 @@
 }
 
 .bg-one {
-  background-image: url(./assets/images/img.jpg);
+  background-image: url(./assets/images/logos/ag.jpg);
 }
 .bg-two {
-  background-image: url(./assets/images/img.jpg);
+  background-image: url(./assets/images/logos/DasHaus.png);
 }
 .bg-four {
-  background-image: url(./assets/images/img.jpg);
+  background-image: url(./assets/images/logos/momentum.png);
 }
 .bg-three {
+  background-image: url(./assets/images/logos/outdoor.jpg);
+}
+.bg-five {
+  background-image: url(./assets/images/logos/stars.jpg);
+}
+.bg-six {
+  background-image: url(./assets/images/logos/tegeta.png);
+}
+.bg-seven {
+  background-image: url(./assets/images/img.jpg);
+}
+.bg-eight {
   background-image: url(./assets/images/img.jpg);
 }
 
