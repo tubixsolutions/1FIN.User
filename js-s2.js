@@ -1,9 +1,4 @@
-/*!
-Waypoints - 4.0.1
-Copyright © 2011-2016 Caleb Troughton
-Licensed under the MIT license.
-https://github.com/imakewebthings/waypoints/blob/master/licenses.txt
-*/
+
 function toggleArrow(n) {
   var t = n.currentTarget.querySelector(".toggle-arrow");
   t && t.classList.toggle("expand");
