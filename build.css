@@ -398,8 +398,9 @@ a {
   transition: transform 0.6s cubic-bezier(0.19, 1, 0.22, 1) 0.04s;
 }
 .WorkItem-title {
-  font-size: 20px;
+  font-size: 23px;
   font-weight: 600;
+  font-family: Euclid Circular A;
 }
 .WorkItem-subtitle {
   font-size: 18px;
@@ -455,6 +456,7 @@ a {
   }
   .WorkItem-title {
     font-size: 18px;
+    font-family: Euclid Circular A;
   }
   .WorkItem-subtitle {
     font-size: 15px;
@@ -481,6 +483,7 @@ a {
   }
   .WorkItem-title {
     font-size: 16px;
+    font-family: Euclid Circular A;
   }
   .WorkItem-subtitle {
     font-size: 14px;
@@ -627,8 +630,9 @@ a {
   margin: 0 0 40px;
 }
 .About p {
-  font-size: 20px;
-  line-height: 25px;
+  font-family: Euclid Circular A;
+  font-size: 26px;
+  line-height: 32px;
   font-weight: 400;
   margin: 40px 0;
 }
@@ -650,6 +654,7 @@ a {
     margin: 0 0 30px;
   }
   .About p {
+    font-family: Euclid Circular A;
     font-size: 15px;
     line-height: 18.75px;
     margin: 30px 0;
@@ -720,6 +725,10 @@ a {
 .Work-content {
   position: relative;
   margin: 0 0 0 100px;
+}
+.Work-content h3 {
+  font-weight: 600;
+  font-family: Euclid Circular A;
 }
 .Work-list li {
   display: block;
