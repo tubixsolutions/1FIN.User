@@ -1,4 +1,3 @@
-
 (function (n, t) {
   "use strict";
   typeof module == "object" && typeof module.exports == "object"
